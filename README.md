@@ -18,9 +18,7 @@ I have no idea if it works everywhere.
 ## Requirements
 - Python 3 (with Qt5)
 - Intel CPU with intel_pstate
-
-**Install QT:**
-```sudo dnf install python3-qt5```
+- PyQT5
 
 ## Installation
 1. Download the `intel-turbo-ctl-tray-app.py` file
