@@ -17,12 +17,12 @@ I have no idea if it works everywhere.
 
 ## Requirements
 - Python 3 (with Qt5)
-- Intel CPU with intel_pstate
+- Intel CPU (with intel_pstate)
 - PyQT5
 
 ## Installation
 1. Download the `intel-turbo-ctl-tray-app.py` file
-2. Move it to any folder you want
+2. Move it to any folder you want. Don't forget that the app also creates a save file.
 3. Make it a executable by file properties or command: `chmod +x filepath`
 
 Replace "filepath" with the path to the file
