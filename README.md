@@ -11,7 +11,9 @@ Requires the intel_pstate driver.
 Will NOT work on AMD systems.
 
 ### ⚠️ Only tested on KDE Plasma
-I have no idea if it works everywhere.
+I have no idea if it works everywhere. I don't know how QT handles everything.
+If you have an intel CPU or Linux and it work/doesn't work, you can create an issue and give your CPU + Distro.
+It will help make a compatibility list.
 
 ---
 
